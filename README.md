@@ -14,5 +14,5 @@ Added git merge dev in execute shell in job2-merge
 added git merge origin/dev in execute shell in job2-merge
 
 added these two lines in job2:
-git merge dev
+git merge origin/dev
 git push origin main
